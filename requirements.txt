@@ -19,3 +19,6 @@ tensorboard
 
 # OpenAI Gym RL framework
 gym
+
+# Advanced Models
+stable-baselines3
